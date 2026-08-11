@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Ritik Mittal]
+# 👋 Hi, I'm Ritik Mittal
 
-> [Your Tagline — Aspiring DevOps Engineer | MERN Developer]
+> Aspiring DevOps Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff6b6b?style=flat&logo=google-chrome&logoColor=white)](https://github.com/kanha1802/Myportfolio.git)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-mittal-6486b5322)
