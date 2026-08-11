@@ -11,9 +11,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: **[Monitoring tools]**
-- 🌱 Learning: **[CI/CD tools and Monitoring tools]**
-- 💬 Ask me about: **[Topics you're comfortable with]**
+- 🔭 Currently working on: **Monitoring tools**
+- 🌱 Learning: **CI/CD tools and Monitoring tools**
 - 📫 Reach me at: **kanhmittal1802@gmail.com**
 
 
@@ -43,7 +42,7 @@
 
 ## 📂 Featured Projects
 
-### 🌟 [Project Name](https://github.com/kanha1802/example-voting-app.git)
+### 🌟 [Deploy by Docker compose ](https://github.com/kanha1802/example-voting-app.git)
 > This is a simple voting application that uses Docker to containerize the frontend and backend.
 
 - **Tech:** [Docker]
@@ -51,7 +50,7 @@
 
 ---
 
-### 🌟 [Project Name](https://github.com/kanha1802/k8-deployment.git)
+### 🌟 [Deploy by kubernetes](https://github.com/kanha1802/k8-deployment.git)
 > This is a simple application that uses kubernetes to deploy the frontend and backend.
 
 - **Tech:** [Docker, kubernetes]
